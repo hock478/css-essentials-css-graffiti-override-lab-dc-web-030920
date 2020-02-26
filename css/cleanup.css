@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
   background: black url(../images/sketch.jpg) no-repeat center;
   background-size: cover;
@@ -64,4 +65,10 @@ body div#wall div.parent div > #tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
   z-index: 1;
   display: block;
+=======
+/* write your override styles here */
+
+#tag1{
+  
+>>>>>>> b3ca32257b4666fb94e01908c948011ce169f0a4
 }
